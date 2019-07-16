@@ -1,0 +1,48 @@
+.fa {
+  padding: 10px;
+  width: 37px;
+  margin: 3px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-github {
+  background: black;
+  color: white;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-envelope {
+  background: #3B5998;
+  color: white;
+}
+.fa-bars {
+  color: white;
+}
+.fa-globe {
+  background: #125688;
+  color: white;
+}
+.fa-chevron-circle-down {
+  width: 55px;
+  margin: 0px;
+  padding-top: 0px;
+}
+.fa-sort-down {
+  width: 55px;
+  margin: 0px;
+  padding-top: 0px;
+  line-height: 2px !important;
+}
+.fa-sort-down:hover {
+  opacity: 1;
+}
